@@ -1,0 +1,21 @@
+{
+  "name": "css3",
+  "version": "1.0.0",
+  "description": "funlipage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "stylus": "^0.54.5",
+    "swig": "^1.4.2"
+  },"scripts": {
+    "start": "node index.js"
+  }
+
+}
